@@ -1,0 +1,9 @@
+{
+  "references": [{"path": "../a"}],
+  "compilerOptions": {
+    "checkJs": true,
+    "module": "nodenext",
+    "noEmit": true,
+    "noImplicitAny": true
+  }
+}

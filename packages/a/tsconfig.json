@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "checkJs": true,
+    "composite": true,
+    "declaration": true,
+    "emitDeclarationOnly": true,
+    "module": "nodenext",
+    "outDir": "types"
+  }
+}
