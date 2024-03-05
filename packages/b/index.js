@@ -1,1 +1,1 @@
-import('a')
+export { a } from 'a'

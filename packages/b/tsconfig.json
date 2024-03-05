@@ -4,6 +4,7 @@
     "checkJs": true,
     "module": "nodenext",
     "noEmit": true,
-    "noImplicitAny": true
+    "noImplicitAny": true,
+    // "resolveJsonModule": true
   }
 }
